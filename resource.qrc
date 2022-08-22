@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/level_images">
+        <file>img/level1.jpg</file>
+        <file>img/level2.jpg</file>
+        <file>img/LawOfReflectionInfo.jpg</file>
+        <file>img/level1Solution.jpg</file>
+        <file>img/startMenu.jpg</file>
+        <file>img/level2Info.jpg</file>
+        <file>img/level2Solution.jpg</file>
+        <file>img/level3.jpg</file>
+        <file>img/level3info.jpg</file>
+        <file>img/level3Solution.jpg</file>
+        <file>img/laserLevelInfo.jpg</file>
+    </qresource>
+</RCC>
